@@ -1,0 +1,180 @@
+Name: 450 Folsom [Transbay Block 8], Type: Unknown
+Name: Park Tower [Transbay Block 5], Type: RC Shear Wall
+Name: 33 Tehama Street, Type: RC Shear Wall
+Name: 340 Fremont Street, Type: RC Shear Wall
+Name: Oceanwide Center II, Type: RC Shear Wall
+Name: 350 Mission Street, Type: RC Shear Wall
+Name: Oceanwide Center I, Type: RC Shear Wall
+Name: Solaire (Transbay Block 6), Type: RC Shear Wall
+Name: Folsom Bay Tower [Transbay Block 1], Type: RC Shear Wall
+Name: 1500 Mission - Residential, Type: RC Shear Wall
+Name: Salesforce Tower, Type: RC Shear Wall
+Name: 33 8th at Trinity Place Apartments, Type: RC Shear Wall
+Name: 1500 Mission - Office, Type: RC Shear Wall
+Name: 181 Fremont, Type: Steel Braced Frame
+Name: 500 Folsom, Type: RC Shear Wall
+Name: 350 Bush Street, Type: RC Shear Wall
+Name: 399 Fremont Street, Type: RC Shear Wall
+Name: 222 2nd Street, Type: Steel Braced Frame
+Name: NEMA North Tower, Type: RC Shear Wall
+Name: 535 Mission Street, Type: Steel Braced Frame
+Name: Ava 55 Ninth, Type: RC Shear Wall
+Name: Jasper, Type: RC Shear Wall
+Name: 1190 Mission at Trinity Place Apartments, Type: RC Shear Wall
+Name: LUMINA II, Type: RC Shear Wall
+Name: LUMINA I, Type: RC Shear Wall
+Name: SF PUC Headquarters, Type: RC Shear Wall
+Name: One Rincon Hill South, Type: RC Shear Wall
+Name: One Hawthorne Street, Type: RC Shear Wall
+Name: 706 Mission Street, Type: RC Shear Wall
+Name: 1188 Mission at Trinity Place Apartments, Type: RC Shear Wall
+Name: Millenium Tower, Type: RC Shear Wall
+Name: 555 Mission St, Type: Steel Braced Frame
+Name: InterContinental San Francisco, Type: RC Shear Wall
+Name: St. Regis San Francisc.. [St. Regis San Francisc.*, Type: RC Shear Wall
+Name: One Rincon Hill North, Type: RC Shear Wall
+Name: Infinity (B) North, Type: RC Shear Wall
+Name: Infinity (D) South, Type: RC Shear Wall
+Name: The Metropolitan I [The Metropolitan], Type: RC Shear Wall
+Name: The Paramount, Type: RC Shear Wall
+Name: The Watermark, Type: RC Shear Wall
+Name: BridgeView, Type: RC Shear Wall
+Name: Avalon Towers, Type: RC Shear Wall
+Name: 55 2nd Street, Type: Steel Braced Frame
+Name: GAP Building, Type: RC Shear Wall
+Name: JPMorgan Chase, Type: Steel Braced Frame
+Name: 33 New Montgomery Street, Type: Steel Braced Frame
+Name: 150 California Street, Type: Steel Braced Frame
+Name: 101 2nd Street, Type: Steel Moment Frame
+Name: W Hotel, Type: RC Shear Wall
+Name: 199 Fremont Street, Type: Steel Braced Frame
+Name: Four Seasons Hotel, Type: Steel Braced Frame
+Name: 235 Pine Street, Type: Steel Braced Frame
+Name: 160 Spear Street, Type: RC Shear Wall
+Name: 505 Montgomery, Type: Steel Moment Frame
+Name: 600 California Street, Type: Steel Braced Frame
+Name: 121 Spear Street, Type: RC Shear Wall
+Name: 135 Main Street, Type: Steel Moment Frame
+Name: Park Hyatt, Type: Steel Moment Frame
+Name: Spear Street Terrace, Type: Steel Moment Frame
+Name: Hills Plaza, Type: Steel Moment Frame
+Name: Marriott Hotel and Convention Center, Type: Steel Moment Frame
+Name: Embarcadero West, Type: Steel Moment Frame
+Name: 100 First Street, Type: Steel Braced Frame
+Name: 301 Howard Street, Type: Steel Moment Frame
+Name: 123 Mission Street, Type: Steel Moment Frame
+Name: Hawthorne Plaza, Type: Steel Moment Frame
+Name: Hotel Nikko, Type: Steel Moment Frame
+Name: 88 Kearny Street, Type: Steel Moment Frame
+Name: 333 Bush Street, Type: Steel Moment Frame
+Name: Stevenson Place, Type: Steel Moment Frame
+Name: 388 Market Street, Type: Steel Moment Frame
+Name: 455 Market Street, Type: Steel Moment Frame
+Name: 345 California Street, Type: Steel Braced Frame
+Name: United Commercial Bank, Type: Steel Moment Frame
+Name: 100 Spear Street, Type: Steel Moment Frame
+Name: Parc 55 San Francisco, Type: Steel Moment Frame
+Name: Westin San Francisco, Type: Steel Moment Frame
+Name: 150 Spear Street, Type: Steel Moment Frame
+Name: 50 Fremont Street, Type: Steel Moment Frame
+Name: Citicorp Center, Type: Steel Moment Frame
+Name: 456 Montgomery Plaza, Type: Steel Braced Frame
+Name: 1275 Market Street, Type: Steel Moment Frame
+Name: Montgomery Washington Tower, Type: Steel Moment Frame
+Name: 353 Sacramento, Type: Steel Moment Frame
+Name: Providian Financial Building, Type: Steel Braced Frame
+Name: 1 Ecker Square, Type: Steel Moment Frame
+Name: 101 Montgomery Street, Type: Steel Moment Frame
+Name: 580 California Street, Type: Steel Braced Frame
+Name: 101 California Street, Type: RC Shear Wall
+Name: 601 Montgomery Street, Type: Steel Moment Frame
+Name: Two Transamerica Center, Type: Steel Moment Frame
+Name: Telesis Tower, Type: Steel Moment Frame
+Name: Four Embarcadero Cente.. [Embarcadero Center], Type: Steel Moment Frame
+Name: Shaklee Terraces, Type: Steel Moment Frame
+Name: Bechtel Building, Type: Unknown
+Name: Bank of the West, Type: Steel Moment Frame
+Name: California Building, Type: Steel Moment Frame
+Name: 333 Market Street, Type: Steel Moment Frame
+Name: 595 Market Street, Type: Steel Moment Frame
+Name: Spear Tower, Type: Steel Moment Frame
+Name: Bank of America Computer Center, Type: Steel Moment Frame
+Name: Steuart Tower, Type: Steel Moment Frame
+Name: Hyatt Regency, Type: Steel Moment Frame
+Name: Holiday Inn, Type: Steel Moment Frame
+Name: San Francisco Marriott Union Square or Crowne Plaza, Type: Steel Moment Frame
+Name: California Automobile Association Building, Type: Steel Moment Frame
+Name: 425 Market Street, Type: Steel Moment Frame
+Name: Transamerica Pyramid [Transamerica Center], Type: Steel Moment Frame
+Name: 100 Pine Center, Type: Steel Moment Frame
+Name: First Market Tower, Type: Steel Moment Frame
+Name: Chevron Tower [Market Center], Type: Steel Moment Frame
+Name: 50 California Street, Type: Steel Moment Frame
+Name: PacBell Center, Type: Steel Moment Frame
+Name: Two Embarcadero Center [Embarcadero Center], Type: Steel Moment Frame
+Name: Hilton Financial District, Type: Steel Moment Frame
+Name: Hilton San Francisco &.. [Hilton San Francisco &..], Type: Steel Moment Frame
+Name: Three Embarcadero Cent.. [Embarcadero Center], Type: Steel Moment Frame
+Name: Pacific Gas & Electric Building, Type: Steel Moment Frame
+Name: Bank of California Building, Type: RC Shear Wall
+Name: Grand Hyatt San Francisco, Type: Steel Moment Frame
+Name: 555 California Street, Type: Steel Moment Frame
+Name: 475 Sansome Street, Type: Steel Moment Frame
+Name: The Westin St. Francis.. [The Westin St. Francis], Type: Steel Moment Frame
+Name: McKesson Plaza, Type: Steel Moment Frame
+Name: One Embarcadero Center [Embarcadero Center], Type: Steel Moment Frame
+Name: 425 California Street, Type: Steel Moment Frame
+Name: The Summit, Type: RC Shear Wall
+Name: Bechtel Building, Type: Steel Moment Frame
+Name: The Sequoias, Type: Steel Moment Frame
+Name: Insurance Center Building, Type: Steel Moment Frame
+Name: Beal Bank Building, Type: Steel Moment Frame
+Name: One California, Type: Steel Moment Frame
+Name: PacBell - Pine Street Building, Type: RC Shear Wall
+Name: Fontana West, Type: RC Shear Wall
+Name: Fontana East, Type: RC Shear Wall
+Name: One Maritime Plaza (Golden Gateway Office Building), Type: Steel Moment Frame
+Name: Royal Towers, Type: RC Shear Wall
+Name: 44 Montgomery, Type: Steel Moment Frame
+Name: 10 Miller, Type: RC Shear Wall
+Name: 555 Market [Market Center], Type: Unknown
+Name: Cathedral Hill Tower, Type: RC Shear Wall
+Name: Hartford Building, Type: Steel Moment Frame
+Name: Archstone Fox Plaza, Type: Steel Moment Frame
+Name: Green Hill Tower, Type: Steel Moment Frame
+Name: Pacific Heights Towers, Type: Unknown
+Name: Nob Hill Community Apartments, Type: RC Shear Wall
+Name: Pacific Telephone Building, Type: Steel Moment Frame
+Name: Fairmont Hotel Tower [The Fairmont San Franc..], Type: Unknown
+Name: 111 Pine Street, Type: Unknown
+Name: Twelve Hundred California, Type: Steel Moment Frame
+Name: Macondray House [Golden Gateway Center], Type: RC Shear Wall
+Name: Buckelew House [Golden Gateway Center], Type: RC Shear Wall
+Name: International Building, Type: RC Shear Wall
+Name: Hilton San Francisco &.. [Hilton San Francisco &..], Type: RC Shear Wall
+Name: Philip Burton Federal Building, Type: Unknown
+Name: One Bush Plaza, Type: RC Shear Wall
+Name: UCSF Medical Center Parnassus, Type: Steel Moment Frame
+Name: Shell Building, Type: Steel Moment Frame
+Name: Sir Francis Drake Hotel, Type: Steel Moment Frame
+Name: Equitable Life, Type: RC Shear Wall
+Name: JH Dollar Building, Type: Steel Moment Frame
+Name: Mills Tower [The Mills Building], Type: Steel Moment Frame
+Name: 450 Sutter, Type: Unknown
+Name: McAllister Tower Apartments, Type: Steel Moment Frame
+Name: Bellaire Tower, Type: Steel Moment Frame
+Name: Russ Building, Type: Steel Moment Frame
+Name: Hunter-Dulin Building, Type: Steel Moment Frame
+Name: Cathedral Apartments, Type: Steel Moment Frame
+Name: The Mark Hopkins Hotel, Type: Steel Moment Frame
+Name: Pac Bell Building, Type: Steel Moment Frame
+Name: PG&E Headquarters, Type: RC Shear Wall
+Name: 225 Bush Street, Type: Unknown
+Name: Commercial Union Assurance Building, Type: Steel Moment Frame
+Name: Southern Pacific Building, Type: RC Shear Wall
+Name: San Francisco City Hall, Type: RC Shear Wall
+Name: Hobart Building, Type: Unknown
+Name: Humboldt Bank Building, Type: Unknown
+Name: Central Tower, Type: Unknown
+Name: Ferry Building, Type: Unknown
+Name: Ritz-Carlton Club and Residences, Type: Unknown
